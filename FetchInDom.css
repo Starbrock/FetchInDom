@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.pic{
+    width: 130px;
+}
+.Rs{
+    border: 2px solid black;
+}
+.d{
+    border: 2px solid black;
+}
+#result{
+    padding-top: 50px;
+    text-align: center;
+}
